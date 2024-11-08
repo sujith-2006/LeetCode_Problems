@@ -1,3 +1,3 @@
 # LeetCode Problems
 
-This is the list of all the problems I Solved<br> on leet code
+This is the list of all the problems I solved on leetcode
