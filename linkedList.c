@@ -35,7 +35,7 @@ void insertStart(int value){
 }
 
 void displayList(){
-	struct Node* temp = head;
+	struct Node* temp = head->next;
 	while (temp != NULL){
 		printf("%d -> ", temp->data);
 		temp = temp->next;
